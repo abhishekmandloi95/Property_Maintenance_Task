@@ -1,5 +1,17 @@
 # Property Maintenance Data Pipeline
 
+#Overview
+
+This project implements a data pipeline using Apache Spark to process and load property maintenance records into a PostgreSQL database. It features a star schema design to facilitate efficient querying and reporting. The pipeline ensures data integrity, non-null constraints, and correct data types, and includes comprehensive tests to validate these aspects.
+
+Key Features:
+
+	•	ETL pipeline using Apache Spark
+	•	Star schema design with fact and dimension tables
+	•	PostgreSQL database setup with Docker
+	•	Data integrity and type validation tests
+	•	Detailed logging of the data processing steps
+ 
 ## Star Schema
 
 ### Fact Table
