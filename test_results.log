@@ -1,0 +1,12 @@
+test_data_loading (__main__.TestDataPipeline.test_data_loading) ... ok
+test_data_types (__main__.TestDataPipeline.test_data_types) ... ok
+test_foreign_key_integrity (__main__.TestDataPipeline.test_foreign_key_integrity) ... ok
+test_non_null_columns (__main__.TestDataPipeline.test_non_null_columns) ... ok
+test_reasonable_value_ranges (__main__.TestDataPipeline.test_reasonable_value_ranges) ... ok
+test_unique_primary_keys (__main__.TestDataPipeline.test_unique_primary_keys) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 5.804s
+
+OK
+2024-06-05 11:15:39,696:INFO:Closing down clientserver connection

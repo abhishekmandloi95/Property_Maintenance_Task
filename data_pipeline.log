@@ -1,0 +1,6 @@
+2024-06-05 11:15:16,916:INFO:Dataset loaded successfully
+2024-06-05 11:15:18,206:INFO:property_dimension table created successfully
+2024-06-05 11:15:18,581:INFO:date_dimension table created successfully
+2024-06-05 11:15:20,083:INFO:repairs_fact table created successfully
+2024-06-05 11:15:20,083:INFO:Data loaded successfully
+2024-06-05 11:15:20,083:INFO:Closing down clientserver connection
